@@ -42,3 +42,7 @@
 	path = moodle/enrol/auto
 	url = https://github.com/bynare/moodle-enrol_auto.git
 	branch = master
+[submodule "moodle/mod/choicegroup"]
+	path = moodle/mod/choicegroup
+	url = https://github.com/ndunand/moodle-mod_choicegroup.git
+	branch = master
