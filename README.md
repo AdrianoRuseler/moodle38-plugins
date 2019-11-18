@@ -20,7 +20,7 @@ cd moodle
 - https://github.com/danmarsden/moodle-mod_attendance/tree/MOODLE_37_STABLE
 
 ```bash
-git submodule add -b master https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
+git submodule add -b MOODLE_37_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
 ```
 
 - https://github.com/h5p/h5p-moodle-plugin
