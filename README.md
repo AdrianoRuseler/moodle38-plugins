@@ -96,6 +96,13 @@ git submodule add -b MOODLE_37_STABLE https://github.com/PoetOS/moodle-mod_quest
 git submodule add -b master https://github.com/dasistwas/moodle-mod_booking.git  mod/booking
 ```
 
+- https://github.com/catalyst/moodle-tool_webanalytics
+
+```bash
+git submodule add -b master https://github.com/catalyst/moodle-tool_webanalytics.git admin/tool/webanalytics
+```
+
+
 ## Remove
 ```bash
 git submodule deinit <path_to_submodule>
