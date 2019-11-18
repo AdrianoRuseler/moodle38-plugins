@@ -60,6 +60,7 @@ git submodule add -b master https://github.com/FMCorz/moodle-block_xp.git blocks
 ```
 
 - https://github.com/markn86/moodle-mod_customcert
+Use of subplugins.php has been deprecated. Please update your '/var/www/html/moodle38/mod/customcert' plugin to provide a subplugins.json file instead.
 ```bash
 git submodule add -b MOODLE_37_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
 ```
