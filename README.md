@@ -7,8 +7,13 @@ chmod u+x Moodle38update.sh
 sudo ./Moodle38update.sh | tee Moodle38update.log
 ```
 ## Downloads
-- https://download.moodle.org/download.php/direct/moodle/moodle-latest.tgz
-- https://download.moodle.org/download.php/direct/moodle/moodle-latest.tgz.md5
+- https://download.moodle.org/download.php/direct/stable38/moodle-latest-38.tgz
+- https://download.moodle.org/download.php/direct/stable38/moodle-latest-38.tgz.md5
+
+## Upgrade Submodules
+```bash
+git submodule update --remote
+```
 
 ## Plugins List
 
@@ -29,6 +34,19 @@ git submodule add -b MOODLE_37_STABLE https://github.com/danmarsden/moodle-mod_a
 git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
 cd mod/hvp
 git submodule update --init
+```
+
+- https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn
+
+```bash
+git submodule add -b master https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git mod/bigbluebuttonbn
+```
+
+- https://github.com/trampgeek/moodle-qtype_coderunner
+
+```bash
+git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
+git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
 ```
 
 
