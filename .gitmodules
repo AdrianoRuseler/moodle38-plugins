@@ -66,3 +66,7 @@
 	path = moodle/mod/booking
 	url = https://github.com/dasistwas/moodle-mod_booking.git
 	branch = master
+[submodule "moodle/admin/tool/webanalytics"]
+	path = moodle/admin/tool/webanalytics
+	url = https://github.com/catalyst/moodle-tool_webanalytics.git
+	branch = master
