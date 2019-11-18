@@ -62,3 +62,7 @@
 	path = moodle/mod/questionnaire
 	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
 	branch = MOODLE_37_STABLE
+[submodule "moodle/mod/booking"]
+	path = moodle/mod/booking
+	url = https://github.com/dasistwas/moodle-mod_booking.git
+	branch = master
