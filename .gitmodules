@@ -46,3 +46,7 @@
 	path = moodle/mod/choicegroup
 	url = https://github.com/ndunand/moodle-mod_choicegroup.git
 	branch = master
+[submodule "moodle/question/type/oumultiresponse"]
+	path = moodle/question/type/oumultiresponse
+	url = https://github.com/moodleou/moodle-qtype_oumultiresponse.git
+	branch = master
