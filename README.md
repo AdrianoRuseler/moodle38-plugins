@@ -60,8 +60,17 @@ git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/
 ```bash
 git submodule add -b master https://github.com/dthies/moodle-atto_fullscreen.git lib/editor/atto/plugins/fullscreen
 ```
+- https://github.com/FMCorz/moodle-block_xp
 
+```bash
+git submodule add -b master https://github.com/FMCorz/moodle-block_xp.git blocks/xp
+```
 
+- https://github.com/markn86/moodle-mod_customcert
+
+```bash
+git submodule add -b MOODLE_37_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
+```
 
 ## Remove
 ```bash
