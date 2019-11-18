@@ -75,10 +75,7 @@ git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.gi
 ```bash
 git submodule add -b master https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
 ```
-- https://github.com/jleyva/moodle-block_configurablereports/tree/MOODLE_36_STABLE
-```bash
- git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
-```
+
 - https://github.com/bostelm/moodle-mod_scheduler
 ```bash
  git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
@@ -95,6 +92,9 @@ git rm <path_to_submodule>
 git commit -m "Removed submodule "
 rm -rf .git/modules/<path_to_submodule>
 ```
-
+- https://github.com/jleyva/moodle-block_configurablereports/tree/MOODLE_36_STABLE
+```bash
+ git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
+```
 
 
