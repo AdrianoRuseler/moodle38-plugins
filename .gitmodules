@@ -38,3 +38,7 @@
 	path = moodle/mod/customcert
 	url = https://github.com/markn86/moodle-mod_customcert.git
 	branch = MOODLE_37_STABLE
+[submodule "moodle/enrol/auto"]
+	path = moodle/enrol/auto
+	url = https://github.com/bynare/moodle-enrol_auto.git
+	branch = master
