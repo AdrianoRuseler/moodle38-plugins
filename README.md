@@ -71,7 +71,10 @@ git submodule add -b master https://github.com/bynare/moodle-enrol_auto.git enro
 ```bash
 git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
 ```
-
+- https://github.com/moodleou/moodle-qtype_oumultiresponse
+```bash
+git submodule add -b master https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
+```
 
 ## Remove
 ```bash
