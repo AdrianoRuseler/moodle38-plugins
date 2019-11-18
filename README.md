@@ -67,6 +67,11 @@ git submodule add -b MOODLE_37_STABLE https://github.com/markn86/moodle-mod_cust
 ```bash
 git submodule add -b master https://github.com/bynare/moodle-enrol_auto.git enrol/auto
 ```
+- https://gitlab.com/jezhops/moodle-theme_adaptable
+```bash
+git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
+```
+
 
 ## Remove
 ```bash
