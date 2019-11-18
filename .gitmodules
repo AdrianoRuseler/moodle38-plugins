@@ -30,3 +30,7 @@
 	path = moodle/theme/adaptable
 	url = https://gitlab.com/jezhops/moodle-theme_adaptable.git
 	branch = master
+[submodule "moodle/blocks/xp"]
+	path = moodle/blocks/xp
+	url = https://github.com/FMCorz/moodle-block_xp.git
+	branch = master
