@@ -83,6 +83,10 @@ git submodule add -b master https://github.com/moodleou/moodle-qtype_oumultiresp
 ```bash
  git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
 ```
+- https://github.com/deraadt/moodle-block_completion_progress
+```bash
+git submodule add -b master https://github.com/deraadt/moodle-block_completion_progress.git blocks/completion_progress
+```
 
 ## Remove
 ```bash
