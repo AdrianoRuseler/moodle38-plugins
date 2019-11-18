@@ -75,6 +75,11 @@ git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.gi
 ```bash
 git submodule add -b master https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
 ```
+- https://github.com/jleyva/moodle-block_configurablereports/tree/MOODLE_36_STABLE
+
+```bash
+ git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
+```
 
 ## Remove
 ```bash
