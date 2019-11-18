@@ -50,10 +50,6 @@
 	path = moodle/question/type/oumultiresponse
 	url = https://github.com/moodleou/moodle-qtype_oumultiresponse.git
 	branch = master
-[submodule "moodle/blocks/configurable_reports"]
-	path = moodle/blocks/configurable_reports
-	url = https://github.com/jleyva/moodle-block_configurablereports.git
-	branch = MOODLE_36_STABLE
 [submodule "moodle/mod/scheduler"]
 	path = moodle/mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
