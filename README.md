@@ -84,6 +84,12 @@ git submodule add -b master https://github.com/moodleou/moodle-qtype_oumultiresp
 ```bash
 git submodule add -b master https://github.com/deraadt/moodle-block_completion_progress.git blocks/completion_progress
 ```
+- https://moodle.org/plugins/mod_questionnaire
+
+```bash
+git submodule add -b MOODLE_37_STABLE https://github.com/PoetOS/moodle-mod_questionnaire.git mod/questionnaire
+```
+
 
 ## Remove
 ```bash
