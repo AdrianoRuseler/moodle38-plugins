@@ -90,7 +90,11 @@ git submodule add -b master https://github.com/deraadt/moodle-block_completion_p
 ```bash
 git submodule add -b MOODLE_37_STABLE https://github.com/PoetOS/moodle-mod_questionnaire.git mod/questionnaire
 ```
+- https://github.com/dasistwas/moodle-mod_booking
 
+```bash
+git submodule add -b master https://github.com/dasistwas/moodle-mod_booking.git  mod/booking
+```
 
 ## Remove
 ```bash
