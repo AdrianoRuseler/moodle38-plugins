@@ -49,6 +49,18 @@ git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner
 git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
 ```
 
+- https://github.com/dthies/moodle-atto_cloze
+
+```bash
+git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/editor/atto/plugins/cloze
+```
+
+- https://github.com/dthies/moodle-atto_fullscreen
+
+```bash
+git submodule add -b master https://github.com/dthies/moodle-atto_fullscreen.git lib/editor/atto/plugins/fullscreen
+```
+
 
 
 ## Remove
