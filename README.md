@@ -107,10 +107,12 @@ git rm <path_to_submodule>
 git commit -m "Removed submodule "
 rm -rf .git/modules/<path_to_submodule>
 ```
+
 - https://github.com/jleyva/moodle-block_configurablereports/tree/MOODLE_36_STABLE
 ```bash
  git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
 ```
+
 - https://github.com/dasistwas/moodle-mod_booking
 
 ```bash
