@@ -6,10 +6,6 @@
 	path = moodle/mod/hvp
 	url = https://github.com/h5p/h5p-moodle-plugin.git
 	branch = stable
-[submodule "moodle/mod/bigbluebuttonbn"]
-	path = moodle/mod/bigbluebuttonbn
-	url = https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git
-	branch = master
 [submodule "moodle/question/type/coderunner"]
 	path = moodle/question/type/coderunner
 	url = https://github.com/trampgeek/moodle-qtype_coderunner.git
