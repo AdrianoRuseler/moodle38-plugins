@@ -62,3 +62,7 @@
 	path = moodle/admin/tool/webanalytics
 	url = https://github.com/catalyst/moodle-tool_webanalytics.git
 	branch = master
+[submodule "moodle/mod/bigbluebuttonbn"]
+	path = moodle/mod/bigbluebuttonbn
+	url = https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git
+	branch = v2.3-stable
