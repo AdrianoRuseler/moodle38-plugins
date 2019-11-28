@@ -25,7 +25,7 @@ mkdir moodle
 cd moodle
 ```
 
-- https://github.com/danmarsden/moodle-mod_attendance/tree/MOODLE_37_STABLE
+- https://github.com/danmarsden/moodle-mod_attendance/
 ```bash
 git submodule add -b master https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
 ```
@@ -71,10 +71,7 @@ git submodule add -b MOODLE_37_STABLE https://github.com/markn86/moodle-mod_cust
 ```bash
 git submodule add -b master https://github.com/bynare/moodle-enrol_auto.git enrol/auto
 ```
-- https://gitlab.com/jezhops/moodle-theme_adaptable
-```bash
-git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
-```
+
 - https://github.com/moodleou/moodle-qtype_oumultiresponse
 ```bash
 git submodule add -b master https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
@@ -121,3 +118,7 @@ rm -rf .git/modules/<path_to_submodule>
 git submodule add -b master https://github.com/dasistwas/moodle-mod_booking.git  mod/booking
 ```
 
+- https://gitlab.com/jezhops/moodle-theme_adaptable
+```bash
+git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
+```
