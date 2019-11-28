@@ -18,10 +18,6 @@
 	path = moodle/lib/editor/atto/plugins/cloze
 	url = https://github.com/dthies/moodle-atto_cloze.git
 	branch = master
-[submodule "moodle/theme/adaptable"]
-	path = moodle/theme/adaptable
-	url = https://gitlab.com/jezhops/moodle-theme_adaptable.git
-	branch = master
 [submodule "moodle/blocks/xp"]
 	path = moodle/blocks/xp
 	url = https://github.com/FMCorz/moodle-block_xp.git
