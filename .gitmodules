@@ -62,3 +62,7 @@
 	path = moodle/mod/customcert
 	url = https://github.com/markn86/moodle-mod_customcert.git
 	branch = MOODLE_38_STABLE
+[submodule "moodle/theme/adaptable"]
+	path = moodle/theme/adaptable
+	url = https://gitlab.com/jezhops/moodle-theme_adaptable.git
+	branch = master
