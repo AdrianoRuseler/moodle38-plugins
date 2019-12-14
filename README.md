@@ -91,14 +91,15 @@ git submodule add -b master https://github.com/deraadt/moodle-block_completion_p
 ```bash
 git submodule add -b MOODLE_37_STABLE https://github.com/PoetOS/moodle-mod_questionnaire.git mod/questionnaire
 ```
-
-
 - https://github.com/catalyst/moodle-tool_webanalytics
 
 ```bash
 git submodule add -b master https://github.com/catalyst/moodle-tool_webanalytics.git admin/tool/webanalytics
 ```
-
+- https://gitlab.com/jezhops/moodle-theme_adaptable
+```bash
+git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
+```
 
 ## Remove
 ```bash
@@ -119,7 +120,4 @@ rm -rf .git/modules/<path_to_submodule>
 git submodule add -b master https://github.com/dasistwas/moodle-mod_booking.git  mod/booking
 ```
 
-- https://gitlab.com/jezhops/moodle-theme_adaptable
-```bash
-git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
-```
+
