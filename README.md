@@ -14,10 +14,8 @@ sudo ./Moodle38update.sh | tee Moodle38update.log
 ```bash
 git submodule update --remote
 ```
-
 ## Disable Notifications
 
-## 
 ```php
 // Use the following flag to completely disable the installation of plugins
 // (new plugins, available updates and missing dependencies) and related
