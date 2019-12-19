@@ -37,6 +37,7 @@ $CFG->disableupdatenotifications = true;
 - https://moodle.org/plugins/qtype_formulas
 - https://gitlab.com/moodlenet/moodle-core-plugins/mod_moodlenet
 - https://moodle.org/plugins/mod_turnitintooltwo
+- https://github.com/moodleou/moodle-block_workflow
 
 ## Plugins List
 
