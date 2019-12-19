@@ -1,4 +1,11 @@
 # moodle38-plugins
+## Debian Config
+```bash
+https://raw.githubusercontent.com/AdrianoRuseler/moodle-update-script/master/DebianSystemConfig.sh -O DebianSystemConfig.sh
+chmod u+x DebianSystemConfig.sh
+sudo ./DebianSystemConfig.sh | tee DebianSystemConfig.log
+```
+
 ## Script for Moodle Update
 ```bash
 wget https://raw.githubusercontent.com/AdrianoRuseler/moodle-update-script/master/Moodle38update.sh -O Moodle38update.sh
