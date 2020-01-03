@@ -118,7 +118,7 @@ git submodule add -b master https://github.com/catalyst/moodle-tool_webanalytics
 ```
 - https://gitlab.com/jezhops/moodle-theme_adaptable
 ```bash
-git submodule add -b 2.2.2-release https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
+git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
 ```
 
 ## Remove
