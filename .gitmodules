@@ -42,10 +42,6 @@
 	path = moodle/blocks/completion_progress
 	url = https://github.com/deraadt/moodle-block_completion_progress.git
 	branch = master
-[submodule "moodle/mod/questionnaire"]
-	path = moodle/mod/questionnaire
-	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
-	branch = MOODLE_37_STABLE
 [submodule "moodle/admin/tool/webanalytics"]
 	path = moodle/admin/tool/webanalytics
 	url = https://github.com/catalyst/moodle-tool_webanalytics.git
